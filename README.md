@@ -1,6 +1,6 @@
 # Pacman_AI
 The game of pacman, a [berckley project](http://ai.berkeley.edu/project_overview.html)<br>
-## Links to Project Descriptions ##
+## Short Project Descriptions ##
 [Project_0](http://ai.berkeley.edu/tutorial.html)<br>
 This short UNIX/Python tutorial introduces students to the Python programming language and the UNIX environment.<br>
 [Project_1](http://ai.berkeley.edu/search.html)<br>
